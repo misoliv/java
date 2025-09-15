@@ -29,8 +29,7 @@ public class ExercicioQuatro {
 		n4 = leia.nextFloat();
 		
 		//Calcular a diferença dos produtos
-		
-		diferenca = (n1 * n2) - (n3 * n4);
+				diferenca = (n1 * n2) - (n3 * n4);
 		
 		//Resultado
 		
